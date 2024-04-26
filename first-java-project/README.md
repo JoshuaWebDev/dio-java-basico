@@ -1,4 +1,4 @@
-# Curso de Java Básico da Digital Innovation One
+# Basic of Java - Digital Innovation One
 
 ## Getting Started
 
